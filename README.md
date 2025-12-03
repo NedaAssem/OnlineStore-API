@@ -93,7 +93,7 @@ OnlineStore/
 
   **3. Update your connection string in:**  
 
-      appsettings.json → "ConnectionStrings"
+     - appsettings.json → "ConnectionStrings"
 
   **4. Apply database migrations**
 
@@ -101,9 +101,11 @@ OnlineStore/
    
   **5. Run the project:**
 
-      Press F5 in Visual Studio
+   -   Press F5 in Visual Studio
 
-      Or:  dotnet run
+    -  Or: 
+      
+       dotnet run
 
 ### 3️⃣ Swagger Documentation
 
