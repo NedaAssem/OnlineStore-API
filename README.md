@@ -88,7 +88,7 @@ OnlineStore/
   **1. Clone this repository:**
   ```bash
       git clone https://github.com/NedaAssem/OnlineStore.git
----
+```
   **2. Open the solution in Visual Studio.**
 
   **3. Update your connection string in:**
