@@ -86,38 +86,35 @@ OnlineStore/
 ### 2️⃣ Installation
 
 1. Clone this repository:
-
-   ```bash
+   
    git clone https://github.com/yourusername/OnlineStore.git
 
-   Open the solution in Visual Studio.
+2. Open the solution in Visual Studio.
 
-Update your connection string in:
+3. Update your connection string in:
 
-appsettings.json → "ConnectionStrings"
+   appsettings.json → "ConnectionStrings"
 
-(Optional) Apply database migrations:
+4. Apply database migrations
 
-dotnet ef database update
-Run the project:
+   dotnet ef database update
+   
+5. Run the project:
 
-Press F5 in Visual Studio
+   Press F5 in Visual Studio
 
-or run:
-dotnet run
+   Or:  dotnet run
+
+###3️⃣ Swagger Documentation
+
+      API docs are available at:
+
+      https://localhost:<port>/swagger
+
+## 🚧 Project Status
+This API is still a work in progress.  
+Several features are planned to be added, including authentication, shopping cart, advanced order workflow, 
+validation, and more. The current version includes basic CRUD operations and order creation.
 
 
-3️⃣ Swagger Documentation
-
-API docs are available at:
-
-https://localhost:<port>/swagger
-
-📝 Notes
-
-This API serves as a learning and practice project to explore clean architecture, multi-layer structure, and modern .NET development techniques.
-
-📄 License
-
-You may include any license you prefer (MIT recommended).
 
