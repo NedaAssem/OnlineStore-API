@@ -67,10 +67,10 @@ This repository will continue to grow as development progresses.
 
 ## 📁 Architecture Overview
 
-OnlineStore/
-├── OnlineStore.API (Controllers)
-├── OnlineStore.Business (DTOs, Services, Interfaces)
-└── OnlineStore.Data (Entities, Repositories, Interfaces)
+OnlineStore/  
+├── OnlineStore.API (Controllers)   
+├── OnlineStore.Business (DTOs, Services, Interfaces)  
+└── OnlineStore.Data (Entities, Repositories, Interfaces)  
 
 
 ---
