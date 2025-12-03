@@ -85,26 +85,26 @@ OnlineStore/
 
 ### 2️⃣ Installation
 
-1. Clone this repository:
+**1. Clone this repository:**
    
    git clone https://github.com/yourusername/OnlineStore.git
 
-2. Open the solution in Visual Studio.
+**2. Open the solution in Visual Studio.**
 
-3. Update your connection string in:
+**3. Update your connection string in:**
 
    appsettings.json → "ConnectionStrings"
 
-4. Apply database migrations
+**4. Apply database migrations**
 
    dotnet ef database update
    
-5. Run the project:
+**5. Run the project:**
 
    Press F5 in Visual Studio
 
    Or:  dotnet run
-
+---
 ###3️⃣ Swagger Documentation
 
       API docs are available at:
