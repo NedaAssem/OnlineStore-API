@@ -87,23 +87,23 @@ OnlineStore/
 
   **1. Clone this repository:**
    
-     git clone https://github.com/yourusername/OnlineStore.git
+      git clone https://github.com/NedaAssem/OnlineStore.git
 
   **2. Open the solution in Visual Studio.**
 
   **3. Update your connection string in:**
 
-     appsettings.json → "ConnectionStrings"
+      appsettings.json → "ConnectionStrings"
 
   **4. Apply database migrations**
 
-     dotnet ef database update
+      dotnet ef database update
    
   **5. Run the project:**
 
-     Press F5 in Visual Studio
+      Press F5 in Visual Studio
 
-     Or:  dotnet run
+      Or:  dotnet run
 
 ### 3️⃣ Swagger Documentation
 
