@@ -86,14 +86,14 @@ OnlineStore/
 ### 2️⃣ Installation
 
   **1. Clone this repository:**
-  ```bash
-      git clone https://github.com/NedaAssem/OnlineStore.git
-```
+
+  - git clone https://github.com/NedaAssem/OnlineStore.git
+
   **2. Open the solution in Visual Studio.**
 
   **3. Update your connection string in:**  
 
-     - appsettings.json → "ConnectionStrings"
+  - appsettings.json → "ConnectionStrings"
 
   **4. Apply database migrations**
 
@@ -101,15 +101,15 @@ OnlineStore/
    
   **5. Run the project:**
 
-   -   Press F5 in Visual Studio
+ - Press F5 in Visual Studio
 
-    -  Or: 
+  -  Or: 
       
        dotnet run
 
 ### 3️⃣ Swagger Documentation
 
-      API docs are available at:
+    -  API docs are available at:
 
       https://localhost:<port>/swagger
 
