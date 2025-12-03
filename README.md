@@ -109,7 +109,7 @@ OnlineStore/
 
 ### 3️⃣ Swagger Documentation
 
-    -  API docs are available at:
+  -  API docs are available at:
 
       https://localhost:<port>/swagger
 
