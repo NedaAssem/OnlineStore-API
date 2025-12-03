@@ -91,7 +91,7 @@ OnlineStore/
 ```
   **2. Open the solution in Visual Studio.**
 
-  **3. Update your connection string in:**
+  **3. Update your connection string in:**  
 
       appsettings.json → "ConnectionStrings"
 
