@@ -114,6 +114,11 @@ OnlineStore/
       https://localhost:<port>/swagger
 
 
+  ### 📝 Notes
+
+This API serves as a learning and practice project to explore clean architecture, multi-layer structure, and modern .NET development techniques.
+
+
 
 
 
