@@ -111,10 +111,7 @@ OnlineStore/
 
       https://localhost:<port>/swagger
 
-## 🚧 Project Status
-This API is still a work in progress.  
-Several features are planned to be added, including authentication, shopping cart, advanced order workflow, 
-validation, and more. The current version includes basic CRUD operations and order creation.
+
 
 
 
