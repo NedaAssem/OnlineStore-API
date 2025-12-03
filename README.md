@@ -86,7 +86,7 @@ OnlineStore/
 ### 2️⃣ Installation
 
   **1. Clone this repository:**
-   
+  ```bash
       git clone https://github.com/NedaAssem/OnlineStore.git
 
   **2. Open the solution in Visual Studio.**
