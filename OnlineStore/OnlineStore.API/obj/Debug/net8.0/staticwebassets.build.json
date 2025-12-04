@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "Hash": "p3dBoaSzRRl2zNYywyXKJp/6stwZ5Fz0AACzadqxb0o=",
+  "Source": "OnlineStore.API",
+  "BasePath": "_content/OnlineStore.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "OnlineStore.API\\wwwroot",
+      "Source": "OnlineStore.API",
+      "ContentRoot": "C:\\Users\\EXCALIBUR\\OneDrive\\Documents\\OnlineStore\\OnlineStore\\OnlineStore.API\\wwwroot\\",
+      "BasePath": "_content/OnlineStore.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\EXCALIBUR\\OneDrive\\Documents\\OnlineStore\\OnlineStore\\OnlineStore.API\\wwwroot\\product-images\\06874c3e-b1ec-47e3-b84b-5b5eafffab44.jpeg",
+      "SourceId": "OnlineStore.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\EXCALIBUR\\OneDrive\\Documents\\OnlineStore\\OnlineStore\\OnlineStore.API\\wwwroot\\",
+      "BasePath": "_content/OnlineStore.API",
+      "RelativePath": "product-images/06874c3e-b1ec-47e3-b84b-5b5eafffab44#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hizdqql309",
+      "Integrity": "CQf0eoNGWp1IGsGBded8ussT+d28jo13kaFZRISOPNg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\product-images\\06874c3e-b1ec-47e3-b84b-5b5eafffab44.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\EXCALIBUR\\OneDrive\\Documents\\OnlineStore\\OnlineStore\\OnlineStore.API\\wwwroot\\product-images\\e6953af5-7843-40b3-9a4f-2d29e73d9655.jpg",
+      "SourceId": "OnlineStore.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\EXCALIBUR\\OneDrive\\Documents\\OnlineStore\\OnlineStore\\OnlineStore.API\\wwwroot\\",
+      "BasePath": "_content/OnlineStore.API",
+      "RelativePath": "product-images/e6953af5-7843-40b3-9a4f-2d29e73d9655#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fkhrtq86r4",
+      "Integrity": "r3ZInXvnJRQ2W/fwEJ4BwoctqjtoZ1hHkxA/xWFFgcc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\product-images\\e6953af5-7843-40b3-9a4f-2d29e73d9655.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "product-images/06874c3e-b1ec-47e3-b84b-5b5eafffab44.hizdqql309.jpeg",
+      "AssetFile": "C:\\Users\\EXCALIBUR\\OneDrive\\Documents\\OnlineStore\\OnlineStore\\OnlineStore.API\\wwwroot\\product-images\\06874c3e-b1ec-47e3-b84b-5b5eafffab44.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CQf0eoNGWp1IGsGBded8ussT+d28jo13kaFZRISOPNg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 02 Dec 2025 06:47:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hizdqql309"
+        },
+        {
+          "Name": "label",
+          "Value": "product-images/06874c3e-b1ec-47e3-b84b-5b5eafffab44.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CQf0eoNGWp1IGsGBded8ussT+d28jo13kaFZRISOPNg="
+        }
+      ]
+    },
+    {
+      "Route": "product-images/06874c3e-b1ec-47e3-b84b-5b5eafffab44.jpeg",
+      "AssetFile": "C:\\Users\\EXCALIBUR\\OneDrive\\Documents\\OnlineStore\\OnlineStore\\OnlineStore.API\\wwwroot\\product-images\\06874c3e-b1ec-47e3-b84b-5b5eafffab44.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CQf0eoNGWp1IGsGBded8ussT+d28jo13kaFZRISOPNg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 02 Dec 2025 06:47:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CQf0eoNGWp1IGsGBded8ussT+d28jo13kaFZRISOPNg="
+        }
+      ]
+    },
+    {
+      "Route": "product-images/e6953af5-7843-40b3-9a4f-2d29e73d9655.fkhrtq86r4.jpg",
+      "AssetFile": "C:\\Users\\EXCALIBUR\\OneDrive\\Documents\\OnlineStore\\OnlineStore\\OnlineStore.API\\wwwroot\\product-images\\e6953af5-7843-40b3-9a4f-2d29e73d9655.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34716"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r3ZInXvnJRQ2W/fwEJ4BwoctqjtoZ1hHkxA/xWFFgcc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 01 Dec 2025 12:51:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fkhrtq86r4"
+        },
+        {
+          "Name": "label",
+          "Value": "product-images/e6953af5-7843-40b3-9a4f-2d29e73d9655.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-r3ZInXvnJRQ2W/fwEJ4BwoctqjtoZ1hHkxA/xWFFgcc="
+        }
+      ]
+    },
+    {
+      "Route": "product-images/e6953af5-7843-40b3-9a4f-2d29e73d9655.jpg",
+      "AssetFile": "C:\\Users\\EXCALIBUR\\OneDrive\\Documents\\OnlineStore\\OnlineStore\\OnlineStore.API\\wwwroot\\product-images\\e6953af5-7843-40b3-9a4f-2d29e73d9655.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34716"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r3ZInXvnJRQ2W/fwEJ4BwoctqjtoZ1hHkxA/xWFFgcc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 01 Dec 2025 12:51:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-r3ZInXvnJRQ2W/fwEJ4BwoctqjtoZ1hHkxA/xWFFgcc="
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\EXCALIBUR\OneDrive\Documents\OnlineStore\OnlineStore\OnlineStore.Data\bin\Debug\net8.0\OnlineStore.Data.deps.json
+C:\Users\EXCALIBUR\OneDrive\Documents\OnlineStore\OnlineStore\OnlineStore.Data\bin\Debug\net8.0\OnlineStore.Data.runtimeconfig.json
+C:\Users\EXCALIBUR\OneDrive\Documents\OnlineStore\OnlineStore\OnlineStore.Data\bin\Debug\net8.0\OnlineStore.Data.dll
+C:\Users\EXCALIBUR\OneDrive\Documents\OnlineStore\OnlineStore\OnlineStore.Data\bin\Debug\net8.0\OnlineStore.Data.pdb
+C:\Users\EXCALIBUR\OneDrive\Documents\OnlineStore\OnlineStore\OnlineStore.Data\obj\Debug\net8.0\OnlineStore.Data.csproj.AssemblyReference.cache
+C:\Users\EXCALIBUR\OneDrive\Documents\OnlineStore\OnlineStore\OnlineStore.Data\obj\Debug\net8.0\OnlineStore.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EXCALIBUR\OneDrive\Documents\OnlineStore\OnlineStore\OnlineStore.Data\obj\Debug\net8.0\OnlineStore.Data.AssemblyInfoInputs.cache
+C:\Users\EXCALIBUR\OneDrive\Documents\OnlineStore\OnlineStore\OnlineStore.Data\obj\Debug\net8.0\OnlineStore.Data.AssemblyInfo.cs
+C:\Users\EXCALIBUR\OneDrive\Documents\OnlineStore\OnlineStore\OnlineStore.Data\obj\Debug\net8.0\OnlineStore.Data.csproj.CoreCompileInputs.cache
+C:\Users\EXCALIBUR\OneDrive\Documents\OnlineStore\OnlineStore\OnlineStore.Data\obj\Debug\net8.0\OnlineStore.Data.dll
+C:\Users\EXCALIBUR\OneDrive\Documents\OnlineStore\OnlineStore\OnlineStore.Data\obj\Debug\net8.0\refint\OnlineStore.Data.dll
+C:\Users\EXCALIBUR\OneDrive\Documents\OnlineStore\OnlineStore\OnlineStore.Data\obj\Debug\net8.0\OnlineStore.Data.pdb
+C:\Users\EXCALIBUR\OneDrive\Documents\OnlineStore\OnlineStore\OnlineStore.Data\obj\Debug\net8.0\OnlineStore.Data.genruntimeconfig.cache
+C:\Users\EXCALIBUR\OneDrive\Documents\OnlineStore\OnlineStore\OnlineStore.Data\obj\Debug\net8.0\ref\OnlineStore.Data.dll

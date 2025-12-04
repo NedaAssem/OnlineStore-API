@@ -1,0 +1,28 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/OnlineStore.API/product-images/06874c3e-b1ec-47e3-b84b-5b5eafffab44.hizdqql309.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\product-images\06874c3e-b1ec-47e3-b84b-5b5eafffab44.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"hizdqql309"},{"Name":"integrity","Value":"sha256-CQf0eoNGWp1IGsGBded8ussT\u002Bd28jo13kaFZRISOPNg="},{"Name":"label","Value":"_content/OnlineStore.API/product-images/06874c3e-b1ec-47e3-b84b-5b5eafffab44.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"16726"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022CQf0eoNGWp1IGsGBded8ussT\u002Bd28jo13kaFZRISOPNg=\u0022"},{"Name":"Last-Modified","Value":"Tue, 02 Dec 2025 06:47:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/OnlineStore.API/product-images/06874c3e-b1ec-47e3-b84b-5b5eafffab44.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\product-images\06874c3e-b1ec-47e3-b84b-5b5eafffab44.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-CQf0eoNGWp1IGsGBded8ussT\u002Bd28jo13kaFZRISOPNg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"16726"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022CQf0eoNGWp1IGsGBded8ussT\u002Bd28jo13kaFZRISOPNg=\u0022"},{"Name":"Last-Modified","Value":"Tue, 02 Dec 2025 06:47:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/OnlineStore.API/product-images/e6953af5-7843-40b3-9a4f-2d29e73d9655.fkhrtq86r4.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\product-images\e6953af5-7843-40b3-9a4f-2d29e73d9655.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fkhrtq86r4"},{"Name":"integrity","Value":"sha256-r3ZInXvnJRQ2W/fwEJ4BwoctqjtoZ1hHkxA/xWFFgcc="},{"Name":"label","Value":"_content/OnlineStore.API/product-images/e6953af5-7843-40b3-9a4f-2d29e73d9655.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"34716"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022r3ZInXvnJRQ2W/fwEJ4BwoctqjtoZ1hHkxA/xWFFgcc=\u0022"},{"Name":"Last-Modified","Value":"Mon, 01 Dec 2025 12:51:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/OnlineStore.API/product-images/e6953af5-7843-40b3-9a4f-2d29e73d9655.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\product-images\e6953af5-7843-40b3-9a4f-2d29e73d9655.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-r3ZInXvnJRQ2W/fwEJ4BwoctqjtoZ1hHkxA/xWFFgcc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"34716"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022r3ZInXvnJRQ2W/fwEJ4BwoctqjtoZ1hHkxA/xWFFgcc=\u0022"},{"Name":"Last-Modified","Value":"Mon, 01 Dec 2025 12:51:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>
